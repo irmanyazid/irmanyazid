@@ -5,3 +5,6 @@ Know More About Me 😃
 - 🌱 I’m currently learning mobile development with Flutter
 - 👯 I’m looking to collaborate on mobile projects 📱
 - ⚡ Fun fact: I love Indonesian Coffee
+
+### Connect with me:
+[<img align="left" alt="LinkedIn" width="26px" src="assets/linkedin.png" title="Linkedin: Irman Yazid"/>](https://www.linkedin.com/in/irman-yazid-925105174/)
